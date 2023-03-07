@@ -3,7 +3,7 @@
 > [中文版](/README.md)
 
 ## Topics
-1
+1 3
 ### Hash
 
 - [Question 1 : Two Sum](/src/hash相关/q1_两数之和)
